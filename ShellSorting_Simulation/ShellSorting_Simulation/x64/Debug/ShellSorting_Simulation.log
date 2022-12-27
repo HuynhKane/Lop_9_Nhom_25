@@ -1,0 +1,5 @@
+﻿  ShellSorting_Simulation.cpp
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ShellSorting_Simulation\ShellSorting_Simulation\graphics.h(235,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ShellSorting_Simulation\ShellSorting_Simulation\graphics.h(236,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ShellSorting_Simulation\ShellSorting_Simulation\ShellSorting_Simulation.cpp(59,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ShellSorting_Simulation.vcxproj -> C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ShellSorting_Simulation\x64\Debug\ShellSorting_Simulation.exe
