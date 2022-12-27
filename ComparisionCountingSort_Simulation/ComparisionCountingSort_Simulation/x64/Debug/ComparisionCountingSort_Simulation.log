@@ -1,0 +1,5 @@
+﻿  ComparisionCountingSort_Simulation.cpp
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ComparisionCountingSort_Simulation\ComparisionCountingSort_Simulation\graphics.h(253,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ComparisionCountingSort_Simulation\ComparisionCountingSort_Simulation\graphics.h(254,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ComparisionCountingSort_Simulation\ComparisionCountingSort_Simulation\ComparisionCountingSort_Simulation.cpp(88,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ComparisionCountingSort_Simulation.vcxproj -> C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\ComparisionCountingSort_Simulation\x64\Debug\ComparisionCountingSort_Simulation.exe
