@@ -1,0 +1,5 @@
+﻿  SelectionSort_Simulation.cpp
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\SelectionSort_Simulation\SelectionSort_Simulation\graphics.h(235,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\SelectionSort_Simulation\SelectionSort_Simulation\graphics.h(236,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\SelectionSort_Simulation\SelectionSort_Simulation\SelectionSort_Simulation.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SelectionSort_Simulation.vcxproj -> C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\SelectionSort_Simulation\x64\Debug\SelectionSort_Simulation.exe
