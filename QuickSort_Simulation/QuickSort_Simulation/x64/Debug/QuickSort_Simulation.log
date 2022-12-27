@@ -1,0 +1,5 @@
+﻿  QuickSort_Simulation.cpp
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\QuickSort_Simulation\QuickSort_Simulation\graphics.h(235,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\QuickSort_Simulation\QuickSort_Simulation\graphics.h(236,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\QuickSort_Simulation\QuickSort_Simulation\QuickSort_Simulation.cpp(78,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QuickSort_Simulation.vcxproj -> C:\Users\Administrator\Desktop\HCMUTE\HK3-2022\Data Structure and Algorithm\Nhom_25_DeTaiBoSung_DoAnCuoiKy\QuickSort_Simulation\x64\Debug\QuickSort_Simulation.exe
